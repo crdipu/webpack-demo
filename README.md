@@ -1,0 +1,3 @@
+# webpack-demo
+The code in this repo is based on the documentation of Webpack(https://webpack.js.org/guides/hot-module-replacement/). 
+A separate branch created for each main heading such as "Getting Started", "Asset Management", etc...
